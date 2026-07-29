@@ -85,8 +85,8 @@ My primary focus is Java Backend Development with Spring Boot while continuously
 
 ## 📫 Connect With Me
 
-- 💼 LinkedIn: *Add your LinkedIn URL*
-- 📧 Email: *Add your Email Address*
+- 💼 LinkedIn:(https://www.linkedin.com/in/adarsh-charjan)
+- 📧 Email: adarshcharjan@gmail.com
 
 ---
 
