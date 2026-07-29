@@ -83,12 +83,24 @@ My primary focus is Java Backend Development with Spring Boot while continuously
 
 ---
 
-## 📫 Connect With Me
+## 📫 How to reach me:
 
-- 💼 LinkedIn:(https://www.linkedin.com/in/adarsh-charjan)
-- 📧 Email: adarshcharjan@gmail.com
+<p align="left">
 
----
+<a href="https://adarsh-charjan-portfolio.netlify.app/" target="_blank">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=google-chrome&logoColor=white" alt="Portfolio"/>
+</a>
+
+<a href="https://www.linkedin.com/in/adarsh-charjan" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+
+<a href="mailto:adarshcharjan@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Gmail"/>
+</a>
+
+</p>
+
 
 <div align="center">
 
